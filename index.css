@@ -14,7 +14,7 @@ html, body {
 }
 
 .heart:hover {
-  width: 350px;
+  width: 370px;
   fill: black;
   animation: none;
 }
