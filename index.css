@@ -7,7 +7,7 @@ html, body {
 }
 
 .heart {
-  width: 100px;
+  width: 200px;
   user-select: none;
   transition: width 2s, height 2s, fill 2s;
   animation: pulse 1s ease infinite;
