@@ -14,7 +14,7 @@ html, body {
   animation: pulse 1s ease infinite;
 }
 
-.heart:active {
+.heart:hover {
   width: 350px;
   fill: black;
   animation: none;
