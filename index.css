@@ -7,7 +7,6 @@ html, body {
 }
 
 .heart {
-  fill: red;
   width: 100px;
   user-select: none;
   transition: width 2s, height 2s, fill 2s;
